@@ -1,0 +1,17 @@
+.head{
+    color: red;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.links{
+    color: blueviolet;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
